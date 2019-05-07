@@ -9,6 +9,31 @@
       "name": "R",
       "image": "assets/tech_img/r.png",
       "link": "https://www.r-project.org/"
-    }
+    },
+    {
+      "name": "PostgreSQL",
+      "image": "assets/tech_img/postgres.png",
+      "link": "https://www.postgresql.org/"
+    },
+    {
+      "name": "Git",
+      "image": "assets/tech_img/git.png",
+      "link": "https://git-scm.com/"
+    },
+    {
+      "name": "GitHub",
+      "image": "assets/tech_img/github.png",
+      "link": "https://github.com/"
+    },
+    {
+      "name": "Jupyter",
+      "image": "assets/tech_img/jupyter.png",
+      "link": "https://jupyter.org/"
+    },
+    {
+      "name": "RStudio",
+      "image": "assets/tech_img/rstudio.png",
+      "link": "https://www.rstudio.com/"
+    }  
   ]
 }
