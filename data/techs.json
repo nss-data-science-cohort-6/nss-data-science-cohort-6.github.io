@@ -1,0 +1,14 @@
+{
+  "techs": [
+    {
+      "name": "Python",
+      "image": "assets/tech_img/python.gif",
+      "link": "https://www.python.org/"
+    },
+    {
+      "name": "R",
+      "image": "assets/tech_img/r.png",
+      "link": "https://www.r-project.org/"
+    }
+  ]
+}
