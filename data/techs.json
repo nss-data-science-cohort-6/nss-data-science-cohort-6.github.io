@@ -34,6 +34,131 @@
       "name": "RStudio",
       "image": "assets/tech_img/rstudio.png",
       "link": "https://www.rstudio.com/"
-    }  
+    },
+    {
+      "name": "Keras",
+      "image": "assets/tech_img/keras.png",
+      "link": "https://keras.io/"
+    },
+    {
+      "name": "Tensorflow",
+      "image": "assets/tech_img/tensorflow_small.png",
+      "link": "https://www.tensorflow.org/"
+    },
+    {
+      "name": "Apache Spark",
+      "image": "assets/tech_img/apache_spark.png",
+      "link": "https://spark.apache.org/"
+    },
+    {
+      "name": "Scikit-Learn",
+      "image": "assets/tech_img/scikitlearn.png",
+      "link": "https://scikit-learn.org/"
+    },
+    {
+      "name": "Amazon Web Services",
+      "image": "assets/tech_img/aws.png",
+      "link": "https://aws.amazon.com/"
+    },
+    {
+      "name": "NLTK",
+      "image": "assets/tech_img/nltk.png",
+      "link": "https://www.nltk.org/"
+    },
+    {
+      "name": "Spacy",
+      "image": "assets/tech_img/spacy.png",
+      "link": "https://spacy.io/"
+    },
+    {
+      "name": "BeautifulSoup",
+      "image": "assets/tech_img/beautifulsoup.png",
+      "link": "https://www.crummy.com/software/BeautifulSoup"
+    },
+    {
+      "name": "Apache Hadoop",
+      "image": "assets/tech_img/hadoop.png",
+      "link": "https://hadoop.apache.org/"
+    },
+    {
+      "name": "R Shiny",
+      "image": "assets/tech_img/rshiny.png",
+      "link": "https://shiny.rstudio.com/"
+    },
+    {
+      "name": "Bokeh",
+      "image": "assets/tech_img/bokeh.png",
+      "link": "https://bokeh.pydata.org/en/latest/docs/reference/io.html"
+    },
+    {
+      "name": "ggplot2",
+      "image": "assets/tech_img/ggplot.png",
+      "link": "https://ggplot2.tidyverse.org/"
+    },
+    {
+      "name": "dplyr",
+      "image": "assets/tech_img/dplyr.png",
+      "link": "https://dplyr.tidyverse.org/"
+    },
+    {
+      "name": "Tidyverse",
+      "image": "assets/tech_img/tidyverse.png",
+      "link": "https://www.tidyverse.org/"
+    },
+    {
+      "name": "Matplotlib",
+      "image": "assets/tech_img/matplotlib.png",
+      "link": "https://matplotlib.org/"
+    },
+    {
+      "name": "SQL",
+      "image": "assets/tech_img/sql.png",
+      "link": "https://en.wikipedia.org/wiki/SQL"
+    },
+    {
+      "name": "Yandex Catboost",
+      "image": "assets/tech_img/catboost.png",
+      "link": "https://catboost.ai/"
+    },
+    {
+      "name": "PyTorch",
+      "image": "assets/tech_img/pytorch.png",
+      "link": "https://pytorch.org/"
+    },
+    {
+      "name": "Kaggle",
+      "image": "assets/tech_img/kaggle.png",
+      "link": "https://www.kaggle.com/"
+    },
+    {
+      "name": "SQLAlchemy",
+      "image": "assets/tech_img/sqlalchemy_small.png",
+      "link": "https://www.sqlalchemy.org/"
+    },
+    {
+      "name": "DataCamp",
+      "image": "assets/tech_img/datacamp.png",
+      "link": "https://www.datacamp.com/"
+    },
+    {
+      "name": "RegularExpression",
+      "image": "assets/tech_img/regex.png",
+      "link": "https://en.wikipedia.org/wiki/Regular_expression"
+    },
+    {
+      "name": "JSON",
+      "image": "assets/tech_img/json.png",
+      "link": "https://en.wikipedia.org/wiki/JSON"
+    },
+    {
+      "name": "HDF",
+      "image": "assets/tech_img/hdf5.png",
+      "link": "https://en.wikipedia.org/wiki/Hierarchical_Data_Format"
+    },
+    {
+      "name": "Google Colaboratory",
+      "image": "assets/tech_img/colab.png",
+      "link": "https://colab.research.google.com/"
+    }
   ]
 }
