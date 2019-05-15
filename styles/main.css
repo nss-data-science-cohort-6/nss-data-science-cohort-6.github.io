@@ -245,5 +245,11 @@ button{
       .navbar-brand img{
         padding-right: none;
       }
-
 }
+
+.thank-you-title {
+  margin-top: 1em; }
+
+.thank-you-list div {
+  display: inline-block !important;    
+  width: 20%; }
