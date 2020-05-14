@@ -9,8 +9,8 @@
         "github": "",
         "linkedIn": "",
         "portfolio": "",
-        "proImg": "assets/img/anamika1.jpg",
-        "funImg": "assets/img/anamika1.jpg"
+        "proImg": "assets/img/anamika_cropped.jpg",
+        "funImg": "assets/img/anamika_cropped.jpg"
     },
      {
         "id": "2",
@@ -21,8 +21,8 @@
         "github": "https://github.com/Barrett-Rogers",
         "linkedIn": "https://www.linkedin.com/in/barrett-rogers/",
         "portfolio": "",
-        "proImg": "assets/img/barrett.jpg",
-        "funImg": "assets/img/barrett.jpg"
+        "proImg": "assets/img/barrett_cropped.jpg",
+        "funImg": "assets/img/barrett_cropped.jpg"
     },
      {
         "id": "3",
@@ -33,8 +33,8 @@
         "github": "https://github.com/kozissnikb",
         "linkedIn": "https://www.linkedin.com/in/bkozissnik/",
         "portfolio": "https://kozissnikb.shinyapps.io/Competitive_Boston/",
-        "proImg": "assets/img/bettina.jpg",
-        "funImg": "assets/img/bettina.jpg"
+        "proImg": "assets/img/bettina_cropped.jpg",
+        "funImg": "assets/img/bettina_cropped.jpg"
     },
      {
         "id": "4",
@@ -45,8 +45,8 @@
         "github": "",
         "linkedIn": "",
         "portfolio": "",
-        "proImg": "assets/img/brittany.jpg",
-        "funImg": "assets/img/brittany.jpg"
+        "proImg": "assets/img/brittany_cropped.jpg",
+        "funImg": "assets/img/brittany_cropped.jpg"
     },
      {
         "id": "5",
@@ -57,8 +57,8 @@
         "github": "",
         "linkedIn": "",
         "portfolio": "",
-        "proImg": "assets/img/dalila.jpg",
-        "funImg": "assets/img/dalila.jpg"
+        "proImg": "assets/img/dalila_cropped.jpg",
+        "funImg": "assets/img/dalila_cropped.jpg"
     },
      {
         "id": "6",
@@ -69,8 +69,8 @@
         "github": "https://github.com/drexhepi",
         "linkedIn": "https://www.linkedin.com/in/drexhepi/",
         "portfolio": "https://drexhepi-laliga.shinyapps.io/la-liga-soccer-data-exploration-/",
-        "proImg": "assets/img/dibran1.png",
-        "funImg": "assets/img/dibran1.png"
+        "proImg": "assets/img/dibran_cropped.png",
+        "funImg": "assets/img/dibran_cropped.png"
     },
      {
         "id": "7",
@@ -81,8 +81,8 @@
         "github": "https://github.com/foyaza",
         "linkedIn": "https://www.linkedin.com/in/foyaz/",
         "portfolio": "",
-        "proImg": "assets/img/foyaz.jpg",
-        "funImg": "assets/img/foyaz.jpg"
+        "proImg": "assets/img/foyaz_cropped.jpg",
+        "funImg": "assets/img/foyaz_cropped.jpg"
     },
      {
         "id": "8",
@@ -93,8 +93,8 @@
         "github": "https://github.com/jmarshvaile",
         "linkedIn": "https://www.linkedin.com/in/jmarshvaile/",
         "portfolio": "",
-        "proImg": "assets/img/jon-marshall.jpg",
-        "funImg": "assets/img/jon-marshall.jpg"
+        "proImg": "assets/img/jon-marshall_cropped.jpg",
+        "funImg": "assets/img/jon-marshall_cropped.jpg"
     },
      {
         "id": "9",
@@ -105,8 +105,8 @@
         "github": "https://github.com/kvongrassamy",
         "linkedIn": "https://www.linkedin.com/in/kenneth-vongrassamy/",
         "portfolio": "",
-        "proImg": "assets/img/kenny.jpg",
-        "funImg": "assets/img/kenny.jpg"
+        "proImg": "assets/img/kenny_cropped.jpg",
+        "funImg": "assets/img/kenny_cropped.jpg"
     },
      {
         "id": "10",
@@ -117,8 +117,8 @@
         "github": "https://github.com/luckylachance",
         "linkedIn": "https://www.linkedin.com/in/luckylachance",
         "portfolio": "",
-        "proImg": "assets/img/lucky.jpg",
-        "funImg": "assets/img/lucky.jpg"
+        "proImg": "assets/img/lucky_cropped.jpg",
+        "funImg": "assets/img/lucky_cropped.jpg"
     },
      {
         "id": "11",
@@ -129,8 +129,8 @@
         "github": "https://github.com/cravenre",
         "linkedIn": "https://www.linkedin.com/in/ryanecraven/",
         "portfolio": "https://ryancraven.shinyapps.io/Measles_vax_rates/",
-        "proImg": "assets/img/ryan.JPG",
-        "funImg": "assets/img/ryan.JPG"
+        "proImg": "assets/img/ryan_cropped.JPG",
+        "funImg": "assets/img/ryan_cropped.JPG"
     },
      {
         "id": "12",
@@ -141,8 +141,8 @@
         "github": "https://github.com/suneethi80",
         "linkedIn": "https://www.linkedin.com/in/suneethis/",
         "portfolio": "https://suneethi.shinyapps.io/Health_Measures_TNCounties/",
-        "proImg": "assets/img/suneethi.jpg",
-        "funImg": "assets/img/suneethi.jpg"
+        "proImg": "assets/img/suneethi_cropped.jpg",
+        "funImg": "assets/img/suneethi_cropped.jpg"
     },
      {
         "id": "13",
@@ -153,8 +153,8 @@
         "github": "https://github.com/SunithaBussa",
         "linkedIn": "https://www.linkedin.com/in/sunitha-bussa/",
         "portfolio": "https://sunitha-bussa.shinyapps.io/DCI_midcourse/",
-        "proImg": "assets/img/sunitha.jpg",
-        "funImg": "assets/img/sunitha.jpg"
+        "proImg": "assets/img/sunitha_cropped.jpg",
+        "funImg": "assets/img/sunitha_cropped.jpg"
     },
      {
         "id": "14",
@@ -165,8 +165,8 @@
         "github": "https://github.com/Tingting0618",
         "linkedIn": "https://www.linkedin.com/in/tingting-duan/",
         "portfolio": "http://www.hotelsearchnow.com/",
-        "proImg": "assets/img/tingting.jpg",
-        "funImg": "assets/img/tingting.jpg"
+        "proImg": "assets/img/tingting_cropped.jpg",
+        "funImg": "assets/img/tingting_cropped.jpg"
     },
      {
         "id": "15",
@@ -177,8 +177,8 @@
         "github": "https://github.com/frando",
         "linkedIn": "https://www.linkedin.com/in/xin-lin-66669a191/",
         "portfolio": "https://xin-lin.shinyapps.io/foreign-worker/",
-        "proImg": "assets/img/xin.jpg",
-        "funImg": "assets/img/xin.jpg"
+        "proImg": "assets/img/xin_cropped.jpg",
+        "funImg": "assets/img/xin_cropped.jpg"
     }
   ]
 }
