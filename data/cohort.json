@@ -1,5 +1,5 @@
 {
-"cohort": [
+  "cohort": [
      {
         "id": "1",
         "firstName": "Anamika",
@@ -10,7 +10,9 @@
         "linkedIn": "",
         "portfolio": "",
         "proImg": "assets/img/anamika_cropped.jpg",
-        "funImg": "assets/img/anamika_cropped.jpg"
+        "funImg": "assets/img/anamika_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "2",
@@ -22,7 +24,9 @@
         "linkedIn": "https://www.linkedin.com/in/barrett-rogers/",
         "portfolio": "",
         "proImg": "assets/img/barrett_cropped.jpg",
-        "funImg": "assets/img/barrett_cropped.jpg"
+        "funImg": "assets/img/barrett_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "3",
@@ -34,43 +38,51 @@
         "linkedIn": "https://www.linkedin.com/in/bkozissnik/",
         "portfolio": "https://kozissnikb.shinyapps.io/Competitive_Boston/",
         "proImg": "assets/img/bettina_cropped.jpg",
-        "funImg": "assets/img/bettina_cropped.jpg"
+        "funImg": "assets/img/bettina_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "4",
         "firstName": "Brittany",
         "lastName": "City",
-        "reelThemIn": "",
-        "bio": "",
+        "reelThemIn": "\"If we have data, let's look at data. If all we have are opinions, let's go with mine.\" - Jim Barksdale",
+        "bio": "I am a Nashville native and versatile analyst that is enthusiastic about working with large amounts of data to deliver insights for action-oriented solutions to complex biological, social, political, and economic challenges. ",
         "github": "",
         "linkedIn": "",
         "portfolio": "",
         "proImg": "assets/img/brittany_cropped.jpg",
-        "funImg": "assets/img/brittany_cropped.jpg"
+        "funImg": "assets/img/brittany_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "5",
         "firstName": "Dalila",
         "lastName": "Paquiot",
         "reelThemIn": "Data Scientist",
-        "bio": "\u201cDo not allow your mind to be imprisoned by majority thinking.\u201d  - Patricia Bath",
+        "bio": "\u201cDo not allow your mind to be imprisoned by majority thinking.\u201d - Patricia Bath",
         "github": "",
         "linkedIn": "",
         "portfolio": "",
         "proImg": "assets/img/dalila_cropped.jpg",
-        "funImg": "assets/img/dalila_cropped.jpg"
+        "funImg": "assets/img/dalila_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "6",
         "firstName": "Dibran",
         "lastName": "Rexhepi",
         "reelThemIn": "Data Analyst + Data Scientist ",
-        "bio": " 'Numbers have an important story to tell. They rely on you to give them a clear and convicing voice ' - Stephen Few",
+        "bio": "'Numbers have an important story to tell. They rely on you to give them a clear and convicing voice ' - Stephen Few",
         "github": "https://github.com/drexhepi",
         "linkedIn": "https://www.linkedin.com/in/drexhepi/",
         "portfolio": "https://drexhepi-laliga.shinyapps.io/la-liga-soccer-data-exploration-/",
         "proImg": "assets/img/dibran_cropped.png",
-        "funImg": "assets/img/dibran_cropped.png"
+        "funImg": "assets/img/dibran_cropped.png",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "7",
@@ -82,19 +94,23 @@
         "linkedIn": "https://www.linkedin.com/in/foyaz/",
         "portfolio": "",
         "proImg": "assets/img/foyaz_cropped.jpg",
-        "funImg": "assets/img/foyaz_cropped.jpg"
+        "funImg": "assets/img/foyaz_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "8",
         "firstName": "Jon-Marshall",
         "lastName": "Vaile",
-        "reelThemIn": "Data Analyst + Apprentice Data Scientist",
-        "bio": "I love finding simple answers in complex places.",
+        "reelThemIn": "Never met a data problem I didn't like.",
+        "bio": "",
         "github": "https://github.com/jmarshvaile",
         "linkedIn": "https://www.linkedin.com/in/jmarshvaile/",
         "portfolio": "",
         "proImg": "assets/img/jon-marshall_cropped.jpg",
-        "funImg": "assets/img/jon-marshall_cropped.jpg"
+        "funImg": "assets/img/jon-marshall_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "9",
@@ -106,19 +122,23 @@
         "linkedIn": "https://www.linkedin.com/in/kenneth-vongrassamy/",
         "portfolio": "",
         "proImg": "assets/img/kenny_cropped.jpg",
-        "funImg": "assets/img/kenny_cropped.jpg"
+        "funImg": "assets/img/kenny_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "10",
         "firstName": "Michael \"Lucky\"",
         "lastName": "LaChance",
         "reelThemIn": "Quantum Data Scientist * Vast Experience * Endless Curiosity ",
-        "bio": "As a retired Military Intelligence Officer, Decision Systems Consultant and emergent Data Scientist,  I help organizations harness the knowable -- that isn't yet known.",
+        "bio": "As a retired Military Intelligence Officer, Decision Systems Consultant and emergent Data Scientist, I help organizations harness the knowable -- that isn't yet known.",
         "github": "https://github.com/luckylachance",
         "linkedIn": "https://www.linkedin.com/in/luckylachance",
         "portfolio": "",
         "proImg": "assets/img/lucky_cropped.jpg",
-        "funImg": "assets/img/lucky_cropped.jpg"
+        "funImg": "assets/img/lucky_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "11",
@@ -130,7 +150,9 @@
         "linkedIn": "https://www.linkedin.com/in/ryanecraven/",
         "portfolio": "https://ryancraven.shinyapps.io/Measles_vax_rates/",
         "proImg": "assets/img/ryan_cropped.JPG",
-        "funImg": "assets/img/ryan_cropped.JPG"
+        "funImg": "assets/img/ryan_cropped.JPG",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "12",
@@ -142,7 +164,9 @@
         "linkedIn": "https://www.linkedin.com/in/suneethis/",
         "portfolio": "https://suneethi.shinyapps.io/Health_Measures_TNCounties/",
         "proImg": "assets/img/suneethi_cropped.jpg",
-        "funImg": "assets/img/suneethi_cropped.jpg"
+        "funImg": "assets/img/suneethi_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "13",
@@ -154,31 +178,37 @@
         "linkedIn": "https://www.linkedin.com/in/sunitha-bussa/",
         "portfolio": "https://sunitha-bussa.shinyapps.io/DCI_midcourse/",
         "proImg": "assets/img/sunitha_cropped.jpg",
-        "funImg": "assets/img/sunitha_cropped.jpg"
+        "funImg": "assets/img/sunitha_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "14",
         "firstName": "Tingting",
         "lastName": "Duan",
-        "reelThemIn": "Data Scientist",
+        "reelThemIn": "\"If you're going through hell, keep going.\" Winston Churchill",
         "bio": "I am passionate about building actionable data science projects.",
         "github": "https://github.com/Tingting0618",
         "linkedIn": "https://www.linkedin.com/in/tingting-duan/",
         "portfolio": "http://www.hotelsearchnow.com/",
         "proImg": "assets/img/tingting_cropped.jpg",
-        "funImg": "assets/img/tingting_cropped.jpg"
+        "funImg": "assets/img/tingting_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
         "id": "15",
         "firstName": "Xin",
         "lastName": "Lin",
         "reelThemIn": "Data Analyst | Junior Data Scientist",
-        "bio": "For nearly three year, I have worked as a marketer and came to realize how data analysis can help organizations make profits with less cost. After completion of the master's degree in data analytics, I enrolled into NSS and was eager to continue to hone not only my machine learning techniques but my experience in tackling real world data questions and analysis.I keep a loss function in mind and update the weights periodically to approach the ground truth.  ",
+        "bio": "For nearly three year, I have worked as a marketer and came to realize how data analysis can help organizations make profits with less cost. After completion of the master's degree in data analytics, I enrolled into NSS and was eager to continue to hone not only my machine learning techniques but my experience in tackling real world data questions and analysis.I keep a loss function in mind and update the weights periodically to approach the ground truth. ",
         "github": "https://github.com/frando",
         "linkedIn": "https://www.linkedin.com/in/xin-lin-66669a191/",
         "portfolio": "https://xin-lin.shinyapps.io/foreign-worker/",
         "proImg": "assets/img/xin_cropped.jpg",
-        "funImg": "assets/img/xin_cropped.jpg"
+        "funImg": "assets/img/xin_cropped.jpg",
+        "resume": "resumes/template.jpg",
+        "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     }
   ]
 }

@@ -55,6 +55,26 @@ function cohortMembers(list) {
     }
     studentInfo += studentContact
 
+
+    //Student resume
+    studentInfo += `
+    <center>
+    <a target="_blank" href="${item.resume}">
+    <button type="button" class="btn btn-outline-primary title-font bottom" style="margin-bottom:0.15cm;">
+    View Resume
+    </button>
+    </a>
+    </center>
+    `
+
+    //Student demo video
+    studentInfo += `
+            <center>
+            <button type="button" style="margin-bottom:0.15cm;" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortVideo${item.id}">
+           Capstone Video Demo
+          </button></center>
+    `
+
     //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
     if(item.bio != null){
 
@@ -93,13 +113,38 @@ function cohortMembers(list) {
             
           </div >
         </div >
-      </div > `;
+      </div > `
+      
+      //video link
+      studentInfo += `
+      <div id="cohortVideo${item.id}" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">${item.firstName} ${item.lastName} Final Capstone</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <iframe width="420" height="315" id="yt-player${item.id}"
+        src="${item.demo}">
+        </iframe>
+      </div>
+    </div>
+
+  </div>
+</div>
+      `;
     } else {
       studentInfo += `
       </div>
         </div>
         `
     }
+
+
+
     document.getElementById("cohort").innerHTML += studentInfo;
 
   });
