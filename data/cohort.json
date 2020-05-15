@@ -11,7 +11,7 @@
         "portfolio": "",
         "proImg": "assets/img/anamika_cropped.jpg",
         "funImg": "assets/img/anamika_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -25,7 +25,7 @@
         "portfolio": "",
         "proImg": "assets/img/barrett_cropped.jpg",
         "funImg": "assets/img/barrett_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -39,7 +39,7 @@
         "portfolio": "https://kozissnikb.shinyapps.io/Competitive_Boston/",
         "proImg": "assets/img/bettina_cropped.jpg",
         "funImg": "assets/img/bettina_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -53,7 +53,7 @@
         "portfolio": "",
         "proImg": "assets/img/brittany_cropped.jpg",
         "funImg": "assets/img/brittany_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -67,7 +67,7 @@
         "portfolio": "",
         "proImg": "assets/img/dalila_cropped.jpg",
         "funImg": "assets/img/dalila_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -81,7 +81,7 @@
         "portfolio": "https://drexhepi-laliga.shinyapps.io/la-liga-soccer-data-exploration-/",
         "proImg": "assets/img/dibran_cropped.png",
         "funImg": "assets/img/dibran_cropped.png",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -95,7 +95,7 @@
         "portfolio": "",
         "proImg": "assets/img/foyaz_cropped.jpg",
         "funImg": "assets/img/foyaz_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -109,7 +109,7 @@
         "portfolio": "",
         "proImg": "assets/img/jon-marshall_cropped.jpg",
         "funImg": "assets/img/jon-marshall_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -123,7 +123,7 @@
         "portfolio": "",
         "proImg": "assets/img/kenny_cropped.jpg",
         "funImg": "assets/img/kenny_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -137,7 +137,7 @@
         "portfolio": "",
         "proImg": "assets/img/lucky_cropped.jpg",
         "funImg": "assets/img/lucky_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -151,7 +151,7 @@
         "portfolio": "https://ryancraven.shinyapps.io/Measles_vax_rates/",
         "proImg": "assets/img/ryan_cropped.JPG",
         "funImg": "assets/img/ryan_cropped.JPG",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -165,7 +165,7 @@
         "portfolio": "https://suneethi.shinyapps.io/Health_Measures_TNCounties/",
         "proImg": "assets/img/suneethi_cropped.jpg",
         "funImg": "assets/img/suneethi_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -179,7 +179,7 @@
         "portfolio": "https://sunitha-bussa.shinyapps.io/DCI_midcourse/",
         "proImg": "assets/img/sunitha_cropped.jpg",
         "funImg": "assets/img/sunitha_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -193,7 +193,7 @@
         "portfolio": "http://www.hotelsearchnow.com/",
         "proImg": "assets/img/tingting_cropped.jpg",
         "funImg": "assets/img/tingting_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     },
      {
@@ -207,7 +207,7 @@
         "portfolio": "https://xin-lin.shinyapps.io/foreign-worker/",
         "proImg": "assets/img/xin_cropped.jpg",
         "funImg": "assets/img/xin_cropped.jpg",
-        "resume": "resumes/template.jpg",
+        "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc"
     }
   ]
