@@ -121,15 +121,16 @@ function cohortMembers(list) {
   <div class="modal-dialog">
 
     <!-- Modal content-->
-    <div class="modal-content">
+    <div class="modal-content" style="width:625px;">
       <div class="modal-header">
         <h4 class="modal-title">${item.firstName} ${item.lastName} Final Capstone</h4>
         <button type="button" class="close" data-dismiss="modal">&times;</button>
       </div>
       <div class="modal-body">
-        <iframe width="420" height="315" id="yt-player${item.id}"
-        src="${item.demo}">
-        </iframe>
+        <center>
+          <iframe width="600" height="360" id="yt-player${item.id}">
+          </iframe>
+        </center>
       </div>
     </div>
 
