@@ -128,8 +128,9 @@ function cohortMembers(list) {
       </div>
       <div class="modal-body">
         <center>
-          <iframe width="600" height="360" id="yt-player${item.id}">
+          <iframe width="600" height="360" id="yt-player${item.id}" src="${item.demo}">
           </iframe>
+
         </center>
       </div>
     </div>
