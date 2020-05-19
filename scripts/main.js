@@ -115,9 +115,9 @@ function cohortMembers(list) {
         </div >
       </div > `
       
-      //video link
+      //video link - hide the url in the data-src attribute so that it doesn't have to load all of the videos when the page opens
       studentInfo += `
-      <div id="cohortVideo${item.id}" class="modal fade" role="dialog">
+      <div id="cohortVideo${item.id}" class="modal fade" role="dialog" data-src=${item.demo}>
   <div class="modal-dialog">
 
     <!-- Modal content-->
@@ -128,7 +128,7 @@ function cohortMembers(list) {
       </div>
       <div class="modal-body">
         <center>
-          <iframe width="600" height="360" id="yt-player${item.id}" src="${item.demo}">
+          <iframe width="600" height="360" id="yt-player${item.id}">
           </iframe>
 
         </center>

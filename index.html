@@ -246,7 +246,15 @@
 <!-- This makes it where the videos stop playing when the modal is closed. -->
 	
 	<script>
+
 		$(document).ready(function(){
+
+			$('.modal').on('show.bs.modal', function (e) {
+				var url = $(this).data('src');
+  				$(this).find('iframe').attr('src', url);
+			});
+
+
 			$('.modal').on('hidden.bs.modal', function (e) {
 				var memory = $(this).html();
   				$(this).html(memory);
