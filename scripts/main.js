@@ -45,7 +45,8 @@ function cohortMembers(list) {
     }
     studentContact += `</div>`
 
-    let studentInfo = `<div class="col-md-3 cohortMems">
+    let studentInfo = `<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 p-2 cohortMems">
+          <div class="developers__card cohortMems mx-2 card">
           <img class="card-img-top" src="${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
             <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
@@ -117,21 +118,20 @@ function cohortMembers(list) {
       
       //video link - hide the url in the data-src attribute so that it doesn't have to load all of the videos when the page opens
       studentInfo += `
-      <div id="cohortVideo${item.id}" class="modal fade" role="dialog" data-src=${item.demo}>
-  <div class="modal-dialog">
+      <div id="cohortVideo${item.id}" tabindex="-1" class="modal fade" role="dialog" data-src=${item.demo}>
+      <div class="modal-dialog capstone__modal" role="document">
 
     <!-- Modal content-->
-    <div class="modal-content" style="width:625px;">
-      <div class="modal-header">
+    <div class="modal-content">
+      <div class="capstone__modal-header modal-header">
         <h4 class="modal-title">${item.firstName} ${item.lastName} Final Capstone</h4>
         <button type="button" class="close" data-dismiss="modal">&times;</button>
       </div>
-      <div class="modal-body">
-        <center>
-          <iframe width="600" height="360" id="yt-player${item.id}">
+      <div class="capstone__modal-body modal-body">
+        <div class="iframe-container">
+          <iframe width="100%" height="100%" id="yt-player${item.id}" class="capstone__modal-iframe">
           </iframe>
-
-        </center>
+        </div>
       </div>
     </div>
 

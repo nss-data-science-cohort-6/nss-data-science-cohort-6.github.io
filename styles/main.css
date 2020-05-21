@@ -274,3 +274,41 @@ button{
     transition-timing-function: ease-in-out;
     transition-delay: 0s;
 }
+
+.developers__card {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 100%;
+    -webkit-filter: grayscale(35%);
+    filter: grayscale(35%);
+}
+
+.developers__card, .section__header {
+    background-color: #fff;
+    color: #212529;
+}
+
+.capstone__modal, .capstone__modal-body, .capstone__modal-header {
+    max-width: 1120px;
+    padding: 0;
+    color: rgba(0,0,0,.7);
+}
+
+.iframe-container {
+    position: relative;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+}
+
+.capstone__modal-iframe {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
