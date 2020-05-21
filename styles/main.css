@@ -263,3 +263,14 @@ button{
 .thank-you-list div {
   display: inline-block !important;    
   width: 20%; }
+
+.technology {
+    width: 65%;
+    display: "block";
+    margin: 0 auto;
+    transition: .15s ease-in-out;
+    transition-property: all;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+}

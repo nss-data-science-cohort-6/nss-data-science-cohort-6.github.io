@@ -71,7 +71,7 @@ function cohortMembers(list) {
     studentInfo += `
             <center>
             <button type="button" style="margin-bottom:0.15cm;" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortVideo${item.id}">
-           Capstone Video Demo
+           Capstone Demo
           </button></center>
     `
 
@@ -174,7 +174,7 @@ function techs(list) {
   data.forEach(function (item) {
     document.getElementById("techs").innerHTML +=
       `<div class="col-4 col-xs-4 col-sm-4 col-md-2 p-4 technologies">
-         <center><a href="${item.link}" target="_blank"><img class="techs" src="${item.image}" alt="${item.name}" data-toggle="tooltip" data-placement="top" title="${item.name}"></a><br>
+         <center><a href="${item.link}" target="_blank"><img class="technology" src="${item.image}" alt="${item.name}" data-toggle="tooltip" data-placement="top" title="${item.name}"></a><br>
          </center>
       </div>`;
   });
