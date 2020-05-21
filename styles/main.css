@@ -35,6 +35,8 @@ blockquote{
     color: #238193;
 }
 
+
+
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
     background-color: #238193!important;
@@ -253,3 +255,9 @@ button{
 .thank-you-list div {
   display: inline-block !important;    
   width: 20%; }
+
+@media (max-width: 900px){
+	#brand__demo-date {
+    	display: none;
+	}
+}
