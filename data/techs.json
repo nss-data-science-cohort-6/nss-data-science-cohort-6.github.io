@@ -46,11 +46,6 @@
       "link": "https://www.tensorflow.org/"
     },
     {
-      "name": "Apache Spark",
-      "image": "assets/tech_img/apache_spark.png",
-      "link": "https://spark.apache.org/"
-    },
-    {
       "name": "Scikit-Learn",
       "image": "assets/tech_img/scikitlearn.png",
       "link": "https://scikit-learn.org/"
@@ -60,6 +55,16 @@
       "image": "assets/tech_img/aws.png",
       "link": "https://aws.amazon.com/"
     },
+		{
+			"name": "Amazon SageMaker",
+			"image": "assets/tech_img/sagemaker.png",
+			"link": "https://aws.amazon.com/sagemaker/"
+		},
+		{
+			"name": "Twitter API",
+			"image": "assets/tech_img/twitter_api.png",
+			"link": "https://developer.twitter.com/en"
+		},
     {
       "name": "NLTK",
       "image": "assets/tech_img/nltk.png",
@@ -74,11 +79,6 @@
       "name": "BeautifulSoup",
       "image": "assets/tech_img/beautifulsoup.png",
       "link": "https://www.crummy.com/software/BeautifulSoup"
-    },
-    {
-      "name": "Apache Hadoop",
-      "image": "assets/tech_img/hadoop.png",
-      "link": "https://hadoop.apache.org/"
     },
     {
       "name": "R Shiny",
@@ -97,7 +97,7 @@
     },
     {
       "name": "dplyr",
-      "image": "assets/tech_img/dplyr.png",
+      "image": "assets/tech_img/dplyr_refreshed.png",
       "link": "https://dplyr.tidyverse.org/"
     },
     {
@@ -116,14 +116,9 @@
       "link": "https://en.wikipedia.org/wiki/SQL"
     },
     {
-      "name": "Yandex Catboost",
-      "image": "assets/tech_img/catboost.png",
-      "link": "https://catboost.ai/"
-    },
-    {
-      "name": "PyTorch",
-      "image": "assets/tech_img/pytorch.png",
-      "link": "https://pytorch.org/"
+      "name": "QGIS",
+      "image": "assets/tech_img/qgis.png",
+      "link": "https://qgis.org/en/site/"
     },
     {
       "name": "Kaggle",
@@ -149,11 +144,6 @@
       "name": "JSON",
       "image": "assets/tech_img/json.png",
       "link": "https://en.wikipedia.org/wiki/JSON"
-    },
-    {
-      "name": "HDF",
-      "image": "assets/tech_img/hdf5.png",
-      "link": "https://en.wikipedia.org/wiki/Hierarchical_Data_Format"
     },
     {
       "name": "Google Colaboratory",
