@@ -247,6 +247,14 @@ button{
       .navbar-brand img{
         padding-right: none;
       }
+	#brand__demo-date {
+    	display: none;
+	}
+}
+
+@media (max-width: 400px) {
+	.navbar-brand {
+    font-size: 1rem;}
 }
 
 .thank-you-title {
@@ -255,9 +263,3 @@ button{
 .thank-you-list div {
   display: inline-block !important;    
   width: 20%; }
-
-@media (max-width: 900px){
-	#brand__demo-date {
-    	display: none;
-	}
-}
