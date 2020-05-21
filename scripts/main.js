@@ -19,7 +19,7 @@ function cohortMembers(list) {
     if (item.portfolio != null) {
 
       studentContact += `<a href=${item.portfolio} target="_blank">
-      <img src="assets/tech_img/rshiny.png" style="height:2em;" class="contactIcons">
+      <img src="assets/tech_img/rshiny.png" style="height:2em;width:1.8em;" class="contactIcons">
       <!-- i class="fas fa-globe fa-2x contactIcons"></i -->
       </a>`
     }
