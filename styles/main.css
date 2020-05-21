@@ -312,3 +312,15 @@ button{
     height: 100%;
     position: absolute;
 }
+
+.flex-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-list .item {
+  flex: 1 0 25%;
+  box-sizing: border-box;
+  padding-left: 10px;
+  padding-right: 20px;
+}
