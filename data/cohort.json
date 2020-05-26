@@ -19,8 +19,8 @@
         "id": "2",
         "firstName": "Barrett",
         "lastName": "Rogers",
-        "reelThemIn": "Decisions define progress.",
-        "bio": null,
+        "reelThemIn": "I believe decisions define progress.",
+        "bio": "I don't consider myself a 'computer person'. Becoming a Data Scientist is the last thing I would\u2019ve guessed was in store for me. The problem for me is I\u2019m a huge people person and there\u2019s a widespread misconception that programmers are introverts and hate people. So for several years I agonized over finding a career \u2014 totally ignoring programming \u2014 until I went to see a career counselor who steered me toward the unthinkable. Right away, I found a sense of fulfillment in giving presentations and solving data problems. I'm a creative person and I think science depends on creativity. ",
         "github": "https://github.com/Barrett-Rogers",
         "linkedIn": "https://www.linkedin.com/in/barrett-rogers/",
         "portfolio": null,
@@ -34,8 +34,8 @@
         "id": "3",
         "firstName": "Bettina",
         "lastName": "Kozissnik",
-        "reelThemIn": "Biomedical Engineer turned Data Scientist",
-        "bio": "I\u2019ve always been good with numbers, but I fell in love with science and academic research. Confronted with the reality of academia, I turned my back on academia and returned to business. Regrettably, business lacked the excitement of the scientific process. Going to my first business meetup, I found myself among data analysts and data scientists and I suddenly realized how I can combine my passion for the scientific process and my business experience. Today I want to help businesses grow by applying data science!",
+        "reelThemIn": "\"Every challenge is an opportunity to excel and/or to learn\"",
+        "bio": "I\u2019ve always been fond of numbers, but I fell in love with science and academic research. After becoming disillusioned by academia, I returned to my business roots. Regrettably, business lacks the excitement of the scientific process, but by going to meetups, I suddenly found myself among data analysts and data scientists and I suddenly realized how I can combine my passion for numbers, analytical thinking and my business experience. Today I want to help businesses grow by applying data science!",
         "github": "https://github.com/kozissnikb",
         "linkedIn": "https://www.linkedin.com/in/bkozissnik/",
         "portfolio": "https://kozissnikb.shinyapps.io/Competitive_Boston/",
@@ -43,7 +43,7 @@
         "funImg": "assets/img/bettina_cropped.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "b.kozissnik@me.com"
     },
      {
         "id": "4",
@@ -64,16 +64,16 @@
         "id": "5",
         "firstName": "Dalila",
         "lastName": "Paquiot",
-        "reelThemIn": "Data Scientist",
-        "bio": "\u201cDo not allow your mind to be imprisoned by majority thinking.\u201d - Patricia Bath",
-        "github": null,
-        "linkedIn": null,
-        "portfolio": null,
+        "reelThemIn": "\u201cDo not allow your mind to be imprisoned by majority thinking.\u201d - Patricia Bath",
+        "bio": "I've always enjoyed solving problems and with a background in accounting, data science is a great way to go. Being able to combine problem-solving skills with the ability to make predictions, is what I look forward to the most being a data scientist.",
+        "github": "https://github.com/DP-DS001",
+        "linkedIn": "linkedin.com/in/d-paquiot/",
+        "portfolio": "https://dp-ds-001-apps.shinyapps.io/Traffic_Analysis/",
         "proImg": "assets/img/dalila_cropped.jpg",
         "funImg": "assets/img/dalila_cropped.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "tobadiva@aol.com"
     },
      {
         "id": "6",
@@ -88,7 +88,7 @@
         "funImg": "assets/img/dibran_cropped.png",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "drexhepi01@gmail.com"
     },
      {
         "id": "7",
@@ -110,22 +110,22 @@
         "firstName": "Jon-Marshall",
         "lastName": "Vaile",
         "reelThemIn": "Never met a data problem I didn't like.",
-        "bio": null,
+        "bio": "My first job out of college had me filing papers alone in a room with no windows. I learned to appreciate sunlight, a good podcast, and how a well-licked finger turns pages. Now I'm developing data teams, designing analytics platforms, and finding that careers are built on the small things.",
         "github": "https://github.com/jmarshvaile",
         "linkedIn": "https://www.linkedin.com/in/jmarshvaile/",
         "portfolio": "https://jmarshvaile.shinyapps.io/stock-analyzer/",
         "proImg": "assets/img/jon-marshall_cropped.jpg",
-        "funImg": "assets/img/jon-marshall_cropped.jpg",
+        "funImg": "assets/img/vaile_alt.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "jmarshvaile@gmail.com"
     },
      {
         "id": "9",
         "firstName": "Kenneth",
         "lastName": "Vongrassamy",
         "reelThemIn": "\u201cTorture the data, and it will confess to anything.\u201d \u2013 Ronald Coase",
-        "bio": "Ex Marine and a great story teller through data",
+        "bio": "I have served proudly in the United States Marine Corps as an 0341 Mortorman. I served in 2009 - 2013 and served all four years honorably. Additionally, I worked as a Competitive Intelligence Analyst, where I find trends in data to see why overpayment on claims have occurred. Now, I currently work for HealthTrust Purchasing Group, as a Associate Business Intelligence Analyst. In my current position I create reporting dashboards for business owners through Power BI.",
         "github": "https://github.com/kvongrassamy",
         "linkedIn": "https://www.linkedin.com/in/kenneth-vongrassamy/",
         "portfolio": "https://kenny-vongrassamy.shinyapps.io/Fema-Disaster-Dashboard/",
@@ -133,22 +133,22 @@
         "funImg": "assets/img/kenny_cropped.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "kenny.vongrassamy@gmail.com"
     },
      {
         "id": "10",
         "firstName": "Michael \"Lucky\"",
         "lastName": "LaChance",
-        "reelThemIn": "Quantum Data Scientist * Vast Experience * Endless Curiosity ",
-        "bio": "As a retired Military Intelligence Officer, Decision Systems Consultant and emergent Data Scientist, I help organizations harness the knowable -- that isn't yet known.",
+        "reelThemIn": "Always consider \"what you know ain't so\" -- Mark Twain",
+        "bio": "I help organizations harness the unknown knowable while uncovering assumptions masquerading as fact. I am a retired Military Intelligence Officer, Decision Systems Consultant and an emergent Data Scientist.",
         "github": "https://github.com/luckylachance",
         "linkedIn": "https://www.linkedin.com/in/luckylachance",
-        "portfolio": null,
+        "portfolio": "http://luckylachance.shinyapps.io/Working_App/",
         "proImg": "assets/img/lucky_cropped.jpg",
-        "funImg": "assets/img/lucky_cropped.jpg",
+        "funImg": "assets/img/lucky_alt.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "michael_lachance@comcast.net"
     },
      {
         "id": "11",
@@ -169,7 +169,7 @@
         "id": "12",
         "firstName": "Suneethi",
         "lastName": "Ford",
-        "reelThemIn": "Biomedical Scientist and Data Scientist ",
+        "reelThemIn": "\u201cYou can have data without information, but you cannot have information without data.\u201d \u2013 By Daniel Keys Moran",
         "bio": "My experience in biomedical research, business development and clinical trials revolved around one aspect: \u201cdata\u201d that provided knowledge. I pursued data science to learn tools to turn vast amounts of data into insights that will facilitate business decisions.",
         "github": "https://github.com/suneethi80",
         "linkedIn": "https://www.linkedin.com/in/suneethis/",
@@ -220,10 +220,10 @@
         "linkedIn": "https://www.linkedin.com/in/xin-lin-66669a191/",
         "portfolio": "https://xin-lin.shinyapps.io/foreign-worker/",
         "proImg": "assets/img/xin_cropped.jpg",
-        "funImg": "assets/img/xin_cropped.jpg",
+        "funImg": "assets/img/xin_alt.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "frando0615@gmail.com"
     }
   ]
 }
