@@ -23,12 +23,12 @@
         "bio": "I don't consider myself a 'computer person'. Becoming a Data Scientist is the last thing I would\u2019ve guessed was in store for me. The problem for me is I\u2019m a huge people person and there\u2019s a widespread misconception that programmers are introverts and hate people. So for several years I agonized over finding a career \u2014 totally ignoring programming \u2014 until I went to see a career counselor who steered me toward the unthinkable. Right away, I found a sense of fulfillment in giving presentations and solving data problems. I'm a creative person and I think science depends on creativity. ",
         "github": "https://github.com/Barrett-Rogers",
         "linkedIn": "https://www.linkedin.com/in/barrett-rogers/",
-        "portfolio": null,
+        "portfolio": "https://barrett.shinyapps.io/Cancer-and-Pesticides/",
         "proImg": "assets/img/barrett_cropped.jpg",
         "funImg": "assets/img/barrett_cropped.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "barrettdaniel.rogers@gmail.com"
     },
      {
         "id": "3",
@@ -58,7 +58,7 @@
         "funImg": "assets/img/brittany_cropped.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
-        "email": null
+        "email": "cityofbrittany@gmail.com"
     },
      {
         "id": "5",
