@@ -85,7 +85,7 @@
         "linkedIn": "https://www.linkedin.com/in/drexhepi/",
         "portfolio": "https://drexhepi-laliga.shinyapps.io/la-liga-soccer-data-exploration-/",
         "proImg": "assets/img/dibran_cropped.png",
-        "funImg": "assets/img/dibran_cropped.png",
+        "funImg": "assets/img/dibran_alt_cropped.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
         "email": "drexhepi01@gmail.com"
@@ -109,8 +109,8 @@
         "id": "8",
         "firstName": "Jon-Marshall",
         "lastName": "Vaile",
-        "reelThemIn": "Never met a data problem I didn't like.",
-        "bio": "My first job out of college had me filing papers alone in a room with no windows. I learned to appreciate sunlight, a good podcast, and how a well-licked finger turns pages. Now I'm developing data teams, designing analytics platforms, and finding that careers are built on the small things.",
+        "reelThemIn": "I never met a data problem I didn't like.",
+        "bio": "I am currently transitioning from the role of Data Analyst and am seeking roles as a Data Scientist. <br/> My first job out of college was as a paper filer. It wasn’t a fun job, but it gave me time to think and to learn from the success of my peers. I learned how hard work, creativity, timing, and a bit of luck can help you create a career you’re proud of. I look forward to sharing how this was true for me.",
         "github": "https://github.com/jmarshvaile",
         "linkedIn": "https://www.linkedin.com/in/jmarshvaile/",
         "portfolio": "https://jmarshvaile.shinyapps.io/stock-analyzer/",
@@ -145,7 +145,7 @@
         "linkedIn": "https://www.linkedin.com/in/luckylachance",
         "portfolio": "http://luckylachance.shinyapps.io/Working_App/",
         "proImg": "assets/img/lucky_cropped.jpg",
-        "funImg": "assets/img/lucky_cropped.jpg",
+        "funImg": "assets/img/lucky_alt.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
         "email": "michael_lachance@comcast.net"
@@ -175,7 +175,7 @@
         "linkedIn": "https://www.linkedin.com/in/suneethis/",
         "portfolio": "https://suneethi.shinyapps.io/Health_Measures_TNCounties/",
         "proImg": "assets/img/suneethi_cropped.jpg",
-        "funImg": "assets/img/suneethi_cropped.jpg",
+        "funImg": "assets/img/suneethi_alt_cropped.jpg",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
         "email": "suneethi.s@gmail.com"
@@ -190,7 +190,7 @@
         "linkedIn": "https://www.linkedin.com/in/sunitha-bussa/",
         "portfolio": "https://sunitha-bussa.shinyapps.io/DCI_midcourse/",
         "proImg": "assets/img/sunitha_cropped.jpg",
-        "funImg": "assets/img/sunitha_cropped.jpg",
+        "funImg": "assets/img/sunitha_alt.png",
         "resume": "resumes/template.pdf",
         "demo": "https://www.youtube.com/embed/KnOi2Nxt9pc",
         "email": "sunitha_bussa@yahoo.com"
