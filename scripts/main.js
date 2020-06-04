@@ -70,13 +70,14 @@ function cohortMembers(list) {
     //`
 
     //Student demo video
-    //studentInfo += `
-    //        <center>
-    //        <button type="button" style="margin-bottom:0.15cm;" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortVideo${item.id}">
-    //       Capstone Demo
-    //      </button></center>
-    //`
-
+    if (item.demo != null) {
+    studentInfo += `
+            <center>
+            <button type="button" style="margin-bottom:0.15cm;" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortVideo${item.id}">
+           Capstone Demo
+          </button></center>
+    `
+    }
     //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
     if(item.bio != null){
 
