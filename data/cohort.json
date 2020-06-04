@@ -26,7 +26,7 @@
         "portfolio": "https://barrett.shinyapps.io/Cancer-and-Pesticides/",
         "proImg": "assets/img/barrett_cropped.jpg",
         "funImg": "assets/img/barrett_cropped.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Barrett_Rogers.pdf",
         "demo": null,
         "email": "barrettdaniel.rogers@gmail.com"
     },
@@ -41,7 +41,7 @@
         "portfolio": "https://kozissnikb.shinyapps.io/Competitive_Boston/",
         "proImg": "assets/img/bettina_cropped.jpg",
         "funImg": "assets/img/bettina_cropped.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Bettina_Kozissnik.pdf",
         "demo": null,
         "email": "b.kozissnik@me.com"
     },
@@ -56,7 +56,7 @@
         "portfolio": "https://brittany-city.shinyapps.io/what-is-good-music/",
         "proImg": "assets/img/brittany_cropped.jpg",
         "funImg": "assets/img/brittany_cropped.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Brittany_City.pdf",
         "demo": null,
         "email": "cityofbrittany@gmail.com"
     },
@@ -71,7 +71,7 @@
         "portfolio": "https://dp-ds-001-apps.shinyapps.io/Traffic_Analysis/",
         "proImg": "assets/img/dalila_cropped.jpg",
         "funImg": "assets/img/dalila_cropped.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Dalila_Paquiot.pdf",
         "demo": null,
         "email": "tobadiva@aol.com"
     },
@@ -86,7 +86,7 @@
         "portfolio": "https://drexhepi-laliga.shinyapps.io/la-liga-soccer-data-exploration-/",
         "proImg": "assets/img/dibran_cropped.png",
         "funImg": "assets/img/dibran_alt_cropped.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Dibran_Rexhapi.pdf",
         "demo": null,
         "email": "drexhepi01@gmail.com"
     },
@@ -116,7 +116,7 @@
         "portfolio": "https://jmarshvaile.shinyapps.io/stock-analyzer/",
         "proImg": "assets/img/jon-marshall_cropped.jpg",
         "funImg": "assets/img/vaile_alt.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/JonMarshall_Vaile.pdf",
         "demo": null,
         "email": "jmarshvaile@gmail.com"
     },
@@ -131,7 +131,7 @@
         "portfolio": "https://kenny-vongrassamy.shinyapps.io/Fema-Disaster-Dashboard/",
         "proImg": "assets/img/kenny_cropped.jpg",
         "funImg": "assets/img/kenny_cropped.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": null,
         "demo": null,
         "email": "kenny.vongrassamy@gmail.com"
     },
@@ -146,7 +146,7 @@
         "portfolio": "http://luckylachance.shinyapps.io/Working_App/",
         "proImg": "assets/img/lucky_cropped.jpg",
         "funImg": "assets/img/lucky_alt.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": null,
         "demo": "https://www.youtube.com/embed/UypczeKf9G0",
         "email": "michael_lachance@comcast.net"
     },
@@ -161,7 +161,7 @@
         "portfolio": "https://ryancraven.shinyapps.io/Measles_vax_rates/",
         "proImg": "assets/img/ryan_cropped.JPG",
         "funImg": "assets/img/ryan_cropped.JPG",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Ryan_Craven.pdf",
         "demo": null,
         "email": "ryan.e.craven@gmail.com"
     },
@@ -176,7 +176,7 @@
         "portfolio": "https://suneethi.shinyapps.io/Health_Measures_TNCounties/",
         "proImg": "assets/img/suneethi_cropped.jpg",
         "funImg": "assets/img/suneethi_alt_cropped.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Suneethi_Sivakumaran.pdf",
         "demo": null,
         "email": "suneethi.s@gmail.com"
     },
@@ -191,7 +191,7 @@
         "portfolio": "https://sunitha-bussa.shinyapps.io/DCI_midcourse/",
         "proImg": "assets/img/sunitha_cropped.jpg",
         "funImg": "assets/img/sunitha_alt.png",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Sunitha_Bussa.pdf",
         "demo": null,
         "email": "sunitha_bussa@yahoo.com"
     },
@@ -206,7 +206,7 @@
         "portfolio": "http://www.hotelsearchnow.com/",
         "proImg": "assets/img/tingting_cropped.jpg",
         "funImg": "assets/img/tingting_alt.jpg",
-        "resume": "resumes/Tingting Duan.pdf",
+        "resume": "resumes/Tingting_Duan.pdf",
         "demo": null,
         "email": "duan.tingting@yahoo.com"
     },
@@ -221,7 +221,7 @@
         "portfolio": "https://xin-lin.shinyapps.io/foreign-worker/",
         "proImg": "assets/img/xin_cropped.jpg",
         "funImg": "assets/img/xin_alt.jpg",
-        "resume": "resumes/template.pdf",
+        "resume": "resumes/Xin_Lin.pdf",
         "demo": null,
         "email": "frando0615@gmail.com"
     }

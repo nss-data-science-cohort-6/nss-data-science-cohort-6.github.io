@@ -59,15 +59,17 @@ function cohortMembers(list) {
 
 
     //Student resume
-    //studentInfo += `
-    //<center>
-    //<a target="_blank" href="${item.resume}">
-    //<button type="button" class="btn btn-outline-primary title-font bottom" style="margin-bottom:0.15cm;">
-    //View Resume
-    //</button>
-    //</a>
-    //</center>
-    //`
+    if (item.resume != null){
+    studentInfo += `
+    <center>
+    <a target="_blank" href="${item.resume}">
+    <button type="button" class="btn btn-outline-primary title-font bottom" style="margin-bottom:0.15cm;">
+    View Resume
+    </button>
+    </a>
+    </center>
+    `
+    }
 
     //Student demo video
     if (item.demo != null) {
