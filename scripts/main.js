@@ -10,6 +10,7 @@ $.ajax({
   .fail(function (error) {
     console.log("error", error);
   });
+  
 
 function cohortMembers(list) {
   let data = list.cohort;
@@ -182,3 +183,17 @@ function techs(list) {
       </div>`;
   });
 };
+
+$(document).ready(function(){
+  setTimeout(function(){    
+  //Check if the current URL contains '#'
+  if(document.URL.indexOf("#")==-1){
+      // Set the URL to whatever it was plus "#".
+      url = document.URL+"#";
+      location = "#";
+
+      //Reload the page
+      location.reload(true);
+    }
+  }, 5000)
+});
