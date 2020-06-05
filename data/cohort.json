@@ -12,7 +12,7 @@
         "proImg": "assets/img/anamika_cropped.jpg",
         "funImg": "assets/img/anamika_alt.png",
         "resume": "resumes/Anamika_Sharma.pdf",
-        "demo": "https://www.youtube.com/embed/jnc08_a8ae0?autoplay=1",
+        "demo": "https://www.youtube.com/embed/jnc08_a8ae0",
         "email": "sanamica@gmail.com"
     },
      {
@@ -42,7 +42,7 @@
         "proImg": "assets/img/bettina_cropped.jpg",
         "funImg": "assets/img/bettina_cropped.jpg",
         "resume": "resumes/Bettina_Kozissnik.pdf",
-        "demo": "https://www.youtube.com/embed/MzyfbjSzOLY?autoplay=1", 
+        "demo": "https://www.youtube.com/embed/MzyfbjSzOLY", 
         "email": "b.kozissnik@me.com"
     },
      {
@@ -87,7 +87,7 @@
         "proImg": "assets/img/dibran_cropped.png",
         "funImg": "assets/img/dibran_alt_cropped.jpg",
         "resume": "resumes/Dibran_Rexhapi.pdf",
-        "demo": "https://www.youtube.com/embed/n3OSugaKwrY?autoplay=1",
+        "demo": "https://www.youtube.com/embed/n3OSugaKwrY",
         "email": "drexhepi01@gmail.com"
     },
      {
@@ -147,7 +147,7 @@
         "proImg": "assets/img/lucky_cropped.jpg",
         "funImg": "assets/img/lucky_alt.jpg",
         "resume": null,
-        "demo": "https://www.youtube.com/embed/UypczeKf9G0?autoplay=1",
+        "demo": "https://www.youtube.com/embed/UypczeKf9G0",
         "email": "michael_lachance@comcast.net"
     },
      {
@@ -162,7 +162,7 @@
         "proImg": "assets/img/ryan_cropped.JPG",
         "funImg": "assets/img/ryan_cropped.JPG",
         "resume": "resumes/Ryan_Craven.pdf",
-        "demo": "https://www.youtube.com/embed/oTZC1N3M_fA?autoplay=1",
+        "demo": "https://www.youtube.com/embed/oTZC1N3M_fA",
         "email": "ryan.e.craven@gmail.com"
     },
      {
@@ -192,7 +192,7 @@
         "proImg": "assets/img/sunitha_cropped.jpg",
         "funImg": "assets/img/sunitha_alt.png",
         "resume": "resumes/Sunitha_Bussa.pdf",
-        "demo": "https://www.youtube.com/embed/-m6V00HpD6o?autoplay=1", 
+        "demo": "https://www.youtube.com/embed/-m6V00HpD6o", 
         "email": "sunitha_bussa@yahoo.com"
     },
      {
