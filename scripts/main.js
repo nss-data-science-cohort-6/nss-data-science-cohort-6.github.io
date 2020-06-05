@@ -195,5 +195,5 @@ $(document).ready(function(){
       //Reload the page
       location.reload(true);
     }
-  }, 10000)
+  }, 30000)
 });
