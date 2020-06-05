@@ -258,6 +258,20 @@ While our journey at NSS has been long and winding due to the unpredictability t
 			});
 			
 		});
+
+		$(document).ajaxComplete(function(){
+
+			$('.modal').on('show.bs.modal', function (e) {
+				var url = $(this).data('src');
+  				$(this).find('iframe').attr('src', url);
+			});
+
+
+			$('.modal').on('hidden.bs.modal', function (e) {
+  				$(this).find('iframe').attr('src', '');
+			});
+			
+		});
 	</script>
 </body>
 
