@@ -13,7 +13,8 @@
         "funImg": "assets/img/anamika_alt.jpg",
         "resume": "resumes/Anamika_Sharma.pdf",
         "demo": "https://www.youtube.com/embed/jnc08_a8ae0?autoplay=1",
-        "email": "sanamica@gmail.com"
+        "email": "sanamica@gmail.com",
+				"cap": null
     },
      {
         "id": "2",
@@ -28,7 +29,8 @@
         "funImg": "assets/img/barrett_cropped.jpg",
         "resume": "resumes/Barrett_Rogers.pdf",
         "demo": "https://www.youtube.com/embed/LudXxrZxsFM?autoplay=1",
-        "email": "barrettdaniel.rogers@gmail.com"
+        "email": "barrettdaniel.rogers@gmail.com",
+				"cap": null
     },
      {
         "id": "3",
@@ -43,7 +45,8 @@
         "funImg": "assets/img/bettina_cropped.jpg",
         "resume": "resumes/Bettina_Kozissnik.pdf",
         "demo": "https://www.youtube.com/embed/MzyfbjSzOLY?autoplay=1", 
-        "email": "b.kozissnik@me.com"
+        "email": "b.kozissnik@me.com",
+				"cap": "https://kozissnikb.shinyapps.io/DataScience_Stack/"
     },
      {
         "id": "4",
@@ -58,7 +61,8 @@
         "funImg": "assets/img/brittany_cropped.jpg",
         "resume": "resumes/Brittany_City.pdf",
         "demo": null,
-        "email": "cityofbrittany@gmail.com"
+        "email": "cityofbrittany@gmail.com",
+				"cap": null
     },
      {
         "id": "5",
@@ -73,7 +77,8 @@
         "funImg": "assets/img/dalila_cropped.jpg",
         "resume": "resumes/Dalila_Paquiot.pdf",
         "demo": "https://www.youtube.com/embed/kCPBbRHm56E?autoplay=1",
-        "email": "tobadiva@aol.com"
+        "email": "tobadiva@aol.com",
+				"cap": null
     },
      {
         "id": "6",
@@ -88,7 +93,8 @@
         "funImg": "assets/img/dibran_alt_cropped.jpg",
         "resume": "resumes/Dibran_Rexhapi.pdf",
         "demo": "https://www.youtube.com/embed/n3OSugaKwrY?autoplay=1",
-        "email": "drexhepi01@gmail.com"
+        "email": "drexhepi01@gmail.com",
+				"cap": null
     },
      {
         "id": "7",
@@ -103,7 +109,8 @@
         "funImg": "assets/img/foyaz_cropped.jpg",
         "resume": "resumes/Foyaz_Ahmed.pdf",
         "demo": "https://www.youtube.com/embed/Vbxl2Jo14d8?autoplay=1",
-        "email": "fahmed_syl@yahoo.com"
+        "email": "fahmed_syl@yahoo.com",
+				"cap": null
     },
      {
         "id": "8",
@@ -118,7 +125,8 @@
         "funImg": "assets/img/vaile_alt.jpg",
         "resume": "resumes/JonMarshall_Vaile.pdf",
         "demo": "https://www.youtube.com/embed/BG1711y2r_M?autoplay=1",
-        "email": "jmarshvaile@gmail.com"
+        "email": "jmarshvaile@gmail.com",
+				"cap": null
     },
      {
         "id": "9",
@@ -133,7 +141,8 @@
         "funImg": "assets/img/kenny_cropped.jpg",
         "resume": "resumes/Kenneth_Vongrassamy.pdf",
         "demo": "https://www.youtube.com/embed/9Y-S_vSyDCM?autoplay=1",
-        "email": "kenny.vongrassamy@gmail.com"
+        "email": "kenny.vongrassamy@gmail.com",
+				"cap": null
     },
      {
         "id": "10",
@@ -148,7 +157,8 @@
         "funImg": "assets/img/lucky_alt.jpg",
         "resume": null,
         "demo": "https://www.youtube.com/embed/UypczeKf9G0?autoplay=1",
-        "email": "michael_lachance@comcast.net"
+        "email": "michael_lachance@comcast.net",
+				"cap": null
     },
      {
         "id": "11",
@@ -163,7 +173,8 @@
         "funImg": "assets/img/ryan_cropped.JPG",
         "resume": "resumes/Ryan_Craven.pdf",
         "demo": "https://www.youtube.com/embed/oTZC1N3M_fA?autoplay=1",
-        "email": "ryan.e.craven@gmail.com"
+        "email": "ryan.e.craven@gmail.com",
+				"cap": "https://ryancraven.shinyapps.io/covid_twitter_sentiment/"
     },
      {
         "id": "12",
@@ -178,7 +189,8 @@
         "funImg": "assets/img/suneethi_alt_cropped.jpg",
         "resume": "resumes/Suneethi_Sivakumaran.pdf",
         "demo": "https://www.youtube.com/embed/gMb57bsWolc?autoplay=1", 
-        "email": "suneethi.s@gmail.com"
+        "email": "suneethi.s@gmail.com",
+				"cap": null
     },
      {
         "id": "13",
@@ -193,7 +205,8 @@
         "funImg": "assets/img/sunitha_alt.jpg",
         "resume": "resumes/Sunitha_Bussa.pdf",
         "demo": "https://www.youtube.com/embed/-m6V00HpD6o?autoplay=1", 
-        "email": "sunitha_bussa@yahoo.com"
+        "email": "sunitha_bussa@yahoo.com",
+				"cap": "https://sunitha-bussa.shinyapps.io/DCI_capstone/"
     },
      {
         "id": "14",
@@ -208,14 +221,15 @@
         "funImg": "assets/img/tingting_alt.jpg",
         "resume": "resumes/Tingting_Duan.pdf",
         "demo": "https://www.youtube.com/embed/bw8Yr554aa0?autoplay=1", 
-        "email": "duan.tingting@yahoo.com"
+        "email": "duan.tingting@yahoo.com",
+				"cap": null
     },
      {
         "id": "15",
         "firstName": "Xin",
         "lastName": "Lin",
         "reelThemIn": "Keep a loss function in mind and update the weights periodically to approach the ground truth.",
-        "bio": "For nearly three year, I have worked as a marketer and came to realize how data analysis can help organizations make profits with less cost. After completion of the master's degree in data analytics, I enrolled into NSS and was eager to continue to hone not only my machine learning techniques but my experience in tackling real world data questions and analysis.",
+        "bio": "My background is in data analytics. Cleaning up various messy data sets and finding data resources as required is my favorite part, followed by modelling although I can tune a good model. I keep my skills up to date via learning platforms and apply them to my work agilely.",
         "github": "https://github.com/frandoLin",
         "linkedIn": "https://www.linkedin.com/in/xin-lin-66669a191/",
         "portfolio": "https://xin-lin.shinyapps.io/foreign-worker/",
@@ -223,7 +237,8 @@
         "funImg": "assets/img/xin_alt.jpg",
         "resume": "resumes/Xin_Lin.pdf",
         "demo": "https://www.youtube.com/embed/9x-3_xMgawk?autoplay=1", 
-        "email": "frando0615@gmail.com"
+        "email": "frando0615@gmail.com",
+				"cap": null
     }
   ]
 }
