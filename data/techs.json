@@ -36,6 +36,11 @@
       "link": "https://www.rstudio.com/"
     },
     {
+      "name": "Neo4j",
+      "image": "assets/tech_img/neo4j_logo.png",
+      "link": "https://neo4j.com/"
+    },
+    {
       "name": "Keras",
       "image": "assets/tech_img/keras.png",
       "link": "https://keras.io/"
