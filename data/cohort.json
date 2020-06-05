@@ -12,7 +12,7 @@
         "proImg": "assets/img/anamika_cropped.jpg",
         "funImg": "assets/img/anamika_alt.png",
         "resume": "resumes/Anamika_Sharma.pdf",
-        "demo": "https://www.youtube.com/embed/jnc08_a8ae0",
+        "demo": "https://www.youtube.com/embed/jnc08_a8ae0?autoplay=1",
         "email": "sanamica@gmail.com"
     },
      {
@@ -27,7 +27,7 @@
         "proImg": "assets/img/barrett_cropped.jpg",
         "funImg": "assets/img/barrett_cropped.jpg",
         "resume": "resumes/Barrett_Rogers.pdf",
-        "demo": null,
+        "demo": "https://www.youtube.com/embed/LudXxrZxsFM?autoplay=1",
         "email": "barrettdaniel.rogers@gmail.com"
     },
      {
@@ -42,7 +42,7 @@
         "proImg": "assets/img/bettina_cropped.jpg",
         "funImg": "assets/img/bettina_cropped.jpg",
         "resume": "resumes/Bettina_Kozissnik.pdf",
-        "demo": "https://www.youtube.com/embed/MzyfbjSzOLY", 
+        "demo": "https://www.youtube.com/embed/MzyfbjSzOLY?autoplay=1", 
         "email": "b.kozissnik@me.com"
     },
      {
@@ -72,7 +72,7 @@
         "proImg": "assets/img/dalila_cropped.jpg",
         "funImg": "assets/img/dalila_cropped.jpg",
         "resume": "resumes/Dalila_Paquiot.pdf",
-        "demo": null,
+        "demo": "https://www.youtube.com/embed/kCPBbRHm56E?autoplay=1",
         "email": "tobadiva@aol.com"
     },
      {
@@ -87,7 +87,7 @@
         "proImg": "assets/img/dibran_cropped.png",
         "funImg": "assets/img/dibran_alt_cropped.jpg",
         "resume": "resumes/Dibran_Rexhapi.pdf",
-        "demo": "https://www.youtube.com/embed/n3OSugaKwrY",
+        "demo": "https://www.youtube.com/embed/n3OSugaKwrY?autoplay=1",
         "email": "drexhepi01@gmail.com"
     },
      {
@@ -102,7 +102,7 @@
         "proImg": "assets/img/foyaz_cropped.jpg",
         "funImg": "assets/img/foyaz_cropped.jpg",
         "resume": "resumes/Foyaz_Ahmed.pdf",
-        "demo": null,
+        "demo": "https://www.youtube.com/embed/Vbxl2Jo14d8?autoplay=1",
         "email": "fahmed_syl@yahoo.com"
     },
      {
@@ -117,7 +117,7 @@
         "proImg": "assets/img/jon-marshall_cropped.jpg",
         "funImg": "assets/img/vaile_alt.jpg",
         "resume": "resumes/JonMarshall_Vaile.pdf",
-        "demo": null,
+        "demo": "https://www.youtube.com/embed/BG1711y2r_M?autoplay=1",
         "email": "jmarshvaile@gmail.com"
     },
      {
@@ -131,8 +131,8 @@
         "portfolio": "https://kenny-vongrassamy.shinyapps.io/Fema-Disaster-Dashboard/",
         "proImg": "assets/img/kenny_cropped.jpg",
         "funImg": "assets/img/kenny_cropped.jpg",
-        "resume": null,
-        "demo": null,
+        "resume": "resumes/Kenneth_Vongrassamy.pdf",
+        "demo": "https://www.youtube.com/embed/9Y-S_vSyDCM?autoplay=1",
         "email": "kenny.vongrassamy@gmail.com"
     },
      {
@@ -147,7 +147,7 @@
         "proImg": "assets/img/lucky_cropped.jpg",
         "funImg": "assets/img/lucky_alt.jpg",
         "resume": null,
-        "demo": "https://www.youtube.com/embed/UypczeKf9G0",
+        "demo": "https://www.youtube.com/embed/UypczeKf9G0?autoplay=1",
         "email": "michael_lachance@comcast.net"
     },
      {
@@ -162,7 +162,7 @@
         "proImg": "assets/img/ryan_cropped.JPG",
         "funImg": "assets/img/ryan_cropped.JPG",
         "resume": "resumes/Ryan_Craven.pdf",
-        "demo": "https://www.youtube.com/embed/oTZC1N3M_fA",
+        "demo": "https://www.youtube.com/embed/oTZC1N3M_fA?autoplay=1",
         "email": "ryan.e.craven@gmail.com"
     },
      {
@@ -177,7 +177,7 @@
         "proImg": "assets/img/suneethi_cropped.jpg",
         "funImg": "assets/img/suneethi_alt_cropped.jpg",
         "resume": "resumes/Suneethi_Sivakumaran.pdf",
-        "demo": null,
+        "demo": "https://www.youtube.com/embed/gMb57bsWolc?autoplay=1", 
         "email": "suneethi.s@gmail.com"
     },
      {
@@ -192,7 +192,7 @@
         "proImg": "assets/img/sunitha_cropped.jpg",
         "funImg": "assets/img/sunitha_alt.png",
         "resume": "resumes/Sunitha_Bussa.pdf",
-        "demo": "https://www.youtube.com/embed/-m6V00HpD6o", 
+        "demo": "https://www.youtube.com/embed/-m6V00HpD6o?autoplay=1", 
         "email": "sunitha_bussa@yahoo.com"
     },
      {
@@ -207,7 +207,7 @@
         "proImg": "assets/img/tingting_cropped.jpg",
         "funImg": "assets/img/tingting_alt.jpg",
         "resume": "resumes/Tingting_Duan.pdf",
-        "demo": null,
+        "demo": "https://www.youtube.com/embed/bw8Yr554aa0?autoplay=1", 
         "email": "duan.tingting@yahoo.com"
     },
      {
@@ -222,7 +222,7 @@
         "proImg": "assets/img/xin_cropped.jpg",
         "funImg": "assets/img/xin_alt.jpg",
         "resume": "resumes/Xin_Lin.pdf",
-        "demo": null,
+        "demo": "https://www.youtube.com/embed/9x-3_xMgawk?autoplay=1", 
         "email": "frando0615@gmail.com"
     }
   ]
