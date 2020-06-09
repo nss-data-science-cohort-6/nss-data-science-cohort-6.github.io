@@ -45,6 +45,16 @@ function cohortMembers(list) {
               <i class="fas fa-envelope fa-2x contactIcons"></i>
             </a>`
     }
+
+        //if student doesn't have an email then don't display the icon
+    if (item.cap != null) {
+
+      studentContact += `<a href=${item.cap} target="_blank">
+              <!-- img src="assets/tech_img/rshiny_alt.png" style="height:2em;width:1.8em;" class="contactIcons" -->
+              <img src="assets/tech_img/dashboard_2.png" style="height:2em;width:2.7em;" class="contactIcons">
+              <!-- i class="fas fa-laptop fa-2x contactIcons"></i -->
+            </a>`
+    }
     studentContact += `</div>`
 
     let studentInfo = `<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 p-2 cohortMems">
