@@ -155,7 +155,7 @@
         "portfolio": "http://luckylachance.shinyapps.io/Working_App/",
         "proImg": "assets/img/lucky_cropped.jpg",
         "funImg": "assets/img/lucky_alt.jpg",
-        "resume": null,
+        "resume": "resumes/LaChance.pdf",
         "demo": "https://www.youtube.com/embed/UypczeKf9G0?autoplay=1",
         "email": "michael_lachance@comcast.net",
 				"cap": null
