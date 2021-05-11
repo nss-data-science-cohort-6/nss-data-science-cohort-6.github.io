@@ -26,9 +26,49 @@
       "link": "https://github.com/"
     },
     {
+      "name": "Anaconda",
+      "image": "assets/tech_img/anaconda.png",
+      "link": "https://www.anaconda.com/"
+    },
+    {
       "name": "Jupyter",
       "image": "assets/tech_img/jupyter.png",
       "link": "https://jupyter.org/"
+    },
+    {
+      "name": "RStudio",
+      "image": "assets/tech_img/pandas.png",
+      "link": "https://pandas.pydata.org/"
+    },
+    {
+      "name": "numpy",
+      "image": "assets/tech_img/numpy.png",
+      "link": "https://numpy.org/"
+    },
+    {
+      "name": "seaborn",
+      "image": "assets/tech_img/seaborn.png",
+      "link": "https://seaborn.pydata.org/"
+    },
+    {
+      "name": "plotly",
+      "image": "assets/tech_img/plotly.png",
+      "link": "https://plotly.com/"
+    },
+    {
+      "name": "geopandas",
+      "image": "assets/tech_img/geopandas.png",
+      "link": "https://geopandas.org/"
+    },
+    {
+      "name": "folium",
+      "image": "assets/tech_img/folium_logo.jpg",
+      "link": "https://python-visualization.github.io/folium/"
+    },
+    {
+      "name": "statsmodels",
+      "image": "assets/tech_img/statsmodels.png",
+      "link": "https://www.statsmodels.org/stable/index.html"
     },
     {
       "name": "RStudio",
@@ -66,9 +106,9 @@
 			"link": "https://aws.amazon.com/sagemaker/"
 		},
 		{
-			"name": "Twitter API",
-			"image": "assets/tech_img/twitter_api.png",
-			"link": "https://developer.twitter.com/en"
+			"name": "SQLite",
+			"image": "assets/tech_img/sqlite.jpeg",
+			"link": "https://www.sqlite.org/index.html"
 		},
     {
       "name": "NLTK",
@@ -81,19 +121,29 @@
       "link": "https://spacy.io/"
     },
     {
+      "name": "requests",
+      "image": "assets/tech_img/requests.png",
+      "link": "https://docs.python-requests.org/en/master/"
+    },
+    {
       "name": "BeautifulSoup",
       "image": "assets/tech_img/beautifulsoup.png",
       "link": "https://www.crummy.com/software/BeautifulSoup"
     },
     {
+      "name": "selenium",
+      "image": "assets/tech_img/selenium.png",
+      "link": "https://www.selenium.dev/"
+    },
+    {
+      "name": "imblearn",
+      "image": "assets/tech_img/imblearn.png",
+      "link": "https://imbalanced-learn.org/stable/"
+    },
+    {
       "name": "R Shiny",
       "image": "assets/tech_img/rshiny.png",
       "link": "https://shiny.rstudio.com/"
-    },
-    {
-      "name": "Bokeh",
-      "image": "assets/tech_img/bokeh.png",
-      "link": "https://bokeh.pydata.org/en/latest/docs/reference/io.html"
     },
     {
       "name": "ggplot2",
@@ -121,11 +171,6 @@
       "link": "https://en.wikipedia.org/wiki/SQL"
     },
     {
-      "name": "QGIS",
-      "image": "assets/tech_img/qgis.png",
-      "link": "https://qgis.org/en/site/"
-    },
-    {
       "name": "Kaggle",
       "image": "assets/tech_img/kaggle.png",
       "link": "https://www.kaggle.com/"
@@ -149,11 +194,6 @@
       "name": "JSON",
       "image": "assets/tech_img/json.png",
       "link": "https://en.wikipedia.org/wiki/JSON"
-    },
-    {
-      "name": "Google Colaboratory",
-      "image": "assets/tech_img/colab.png",
-      "link": "https://colab.research.google.com/"
     }
   ]
 }
