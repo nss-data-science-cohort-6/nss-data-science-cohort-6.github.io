@@ -6,7 +6,8 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
     background-size: 100%;
-    background-color: #CACACA;
+    background-color: #f7f9fb;
+    font-family: 'Barlow', sans-serif;
 }
 
 blockquote{
@@ -32,14 +33,13 @@ blockquote{
 
 #cohort22{
     display: inline-block;
-    color: #238193;
+    color: #56aae4;
 }
-
 
 
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
+    background-color: #56aae4!important;
     color: lightgray;
 
 }
@@ -149,7 +149,7 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: #56aae4;
   }
   .contactIcons:hover{
       transform: scale(1.2);
@@ -157,13 +157,13 @@ main {
 
   .modal-header{
     background-color: lightgray!important;
-    color: #238193;
+    color: #56aae4;
   }
 
   .modal-body img{
     width: 50%;
     height: 50%;
-    box-shadow: 3px 3px 5px #cacaca;
+    box-shadow: 3px 3px 5px #F7F9FB;
     border-radius: 10px;
   }
 
@@ -174,26 +174,26 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
+    background-color: #56aae4!important;
     color: white;
 }
 
 #demo-date {
     text-align: center;
-    color: #238193!important;
+    color: #384E61!important;
 }
 
 button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: #56aae4!important;
+    border-color: #56aae43!important;
 }
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: #56aae4!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
