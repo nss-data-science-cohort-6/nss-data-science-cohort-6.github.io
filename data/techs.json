@@ -101,11 +101,6 @@
       "link": "https://aws.amazon.com/"
     },
 		{
-			"name": "Amazon SageMaker",
-			"image": "assets/tech_img/sagemaker.png",
-			"link": "https://aws.amazon.com/sagemaker/"
-		},
-		{
 			"name": "SQLite",
 			"image": "assets/tech_img/sqlite.jpeg",
 			"link": "https://www.sqlite.org/index.html"
@@ -116,7 +111,7 @@
       "link": "https://www.nltk.org/"
     },
     {
-      "name": "Spacy",
+      "name": "SpaCy",
       "image": "assets/tech_img/spacy.png",
       "link": "https://spacy.io/"
     },
@@ -129,11 +124,6 @@
       "name": "BeautifulSoup",
       "image": "assets/tech_img/beautifulsoup.png",
       "link": "https://www.crummy.com/software/BeautifulSoup"
-    },
-    {
-      "name": "selenium",
-      "image": "assets/tech_img/selenium.png",
-      "link": "https://www.selenium.dev/"
     },
     {
       "name": "imblearn",
